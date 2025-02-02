@@ -4,12 +4,6 @@ This repository contains a simple React application that showcases different var
 
 ---
 
-## **Demo**
-
-Check out the live demo: [Vercel Deployment Link](https://your-vercel-app.vercel.app)
-
----
-
 ## **Getting Started**
 
 Follow the steps below to set up the project locally.
